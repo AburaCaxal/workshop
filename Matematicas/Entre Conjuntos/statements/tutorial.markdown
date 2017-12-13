@@ -1,7 +1,7 @@
 # Explicación
 En este problema debes de buscar dados dos conjuntos A y B como mostramos en la imagen:
 
-!{Conjuntos Iniciales}(conjuntos.jpg)
+![Conjuntos Iniciales](conjuntos.jpg)
 
 Debes de buscar un número que pueda ser dividido por todos los elementos de conjunto A.
 
@@ -10,13 +10,13 @@ Debes de buscar un número que pueda ser dividido por todos los elementos de con
 
 Teniendo un conjunto A:
 
-!{Elementos del Conjunto A}(conjuntoA.jpg)
+![Elementos del Conjunto A](conjuntoA.jpg)
 
 Conociendo los valores del conjunto A debes de buscar un número **X** que pueda ser dividido por todos estos elementos, si sabemos que A = {2, 3, 6} podemos observar que los números de este conjunto pueden ser divididos por el **6** que sería el MCM, ahora tenemos que **X = 6**
 
 Teniendo un conjunto B:
  
-!{Elementos del Conjunto B}(conjuntoB.jpg)
+![Elementos del Conjunto B](conjuntoB.jpg)
 
 Ahora analizamos los elementos del conjunto B, buscamos el MCD de los elementos, en este caso tenemos B = {42, 84} obteniendo que **42** es el MCD de los elementos.
 
